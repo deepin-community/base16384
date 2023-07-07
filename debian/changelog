@@ -1,5 +1,23 @@
-template-repository (1.0-1) unstable; urgency=medium
+base16384 (2.2.3-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream release.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Fumiama Minamoto <fumiama@foxmail.com>  Thu, 18 May 2023 15:51:27 +0800
+
+base16384 (2.2.2-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Fumiama Minamoto <fumiama@foxmail.com>  Wed, 14 Dec 2022 13:27:20 +0800
+
+base16384 (2.2.1-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Fumiama Minamoto <fumiama@foxmail.com>  Thu, 08 Dec 2022 23:40:58 +0800
+
+base16384 (2.2.0-1) unstable; urgency=medium
+
+  * Initial Release. Closes: #1010055 (ITP).
+
+ -- Fumiama Minamoto <fumiama@foxmail.com>  Sun, 16 Oct 2022 10:41:58 +0800
